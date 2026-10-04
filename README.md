@@ -118,3 +118,20 @@ This allows the sensor readings and system activity to be monitored remotely.
        │
        ▼
  Street Light
+
+```
+## 📷 Project Visuals
+
+### Circuit Diagram
+
+![Circuit diagram](hardware/circuit-diagram.png)
+
+### Physical Prototype
+
+| Test position 1 | Test position 2 | Test position 3 |
+|---|---|---|
+| ![Prototype test position 1](images/prototype-1.jpg) | ![Prototype test position 2](images/prototype-2.jpg) | ![Prototype test position 3](images/prototype-3.jpg) |
+
+### ThingSpeak Monitoring Output
+
+![ThingSpeak dashboard showing LDR and IR sensor readings](images/thingspeak-output.png)
